@@ -14,7 +14,7 @@
 
 - 📫 How to reach me via email at: **keepcoding200@gmail.com**
 
-- ⚡ Fun fact: Solving backend challenges is my kind of fun 😄**
+- ⚡ Fun fact: Solving backend challenges is my kind of fun 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
