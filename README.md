@@ -1,4 +1,4 @@
-# Hi 👋, I'm Asoh yannick
+# Hi 👋, I'm Asoh Yannick
 
 ### A Backend Engineer | Java & Spring Boot | Node.js & NestJS
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **💬 Ask me about backend development, Java & Spring Boot, Node.js & NestJS, and building scalable APIs.**
 
-- 📫 How to reach me **asohyannick3@gmail.com**
+- 📫 How to reach me via email at: **keepcoding200@gmail.com**
 
 - ⚡ Fun fact **⚡ Fun fact: Solving backend challenges is my kind of fun 😄**
 
