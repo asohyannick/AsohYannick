@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asoh Yannick
 
-### A Backend Engineer | Java & Spring Boot | Node.js & NestJS Developer
+### Java & Scala Software Engineer || Spring Boot || Play Framework || Git || REST APIs || Microservices Architecture || Docker || Kafka || APIs Integration || Performance & System Optimization Enthusiast.
 
 - 🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, MySQL, and PostgreSQL.**
 
