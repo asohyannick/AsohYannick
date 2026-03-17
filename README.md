@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asoh Yannick
 
-   - Senior Backend Engineer | Scalable APIs & Microservices | Java • Spring Boot • Go • Node.js • Kafka • AWS
+   - Senior Software Engineer | Scalable APIs & Microservices | Java • Spring Boot • Go • Node.js • Kafka • AWS
 
 - 🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, MySQL, and PostgreSQL.**
 
