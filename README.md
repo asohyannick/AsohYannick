@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asoh Yannick
 
-   - Software Engineer | Building Scalable APIs & Microservices | Java • Spring Boot • Node.js • NestJS • Kafka • AWS
+   - Lead Backend Engineer | Building Scalable APIs & Microservices | Java • Spring Boot • Node.js • NestJS • Kafka • AWS
 
 - 🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, MySQL, and PostgreSQL.**
 
