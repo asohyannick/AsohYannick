@@ -2,7 +2,7 @@
 
 ### Lead Backend Engineer | Building Scalable APIs & Microservices | Java •Spring Boot •Node.js •NestJS •C# •NET •Kafka •RabbitMQ •PostgreSQL •MySQL •MongoDB •Redis •Docker •AWS
 
--🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, MySQL, and PostgreSQL.
+-🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, ASP.NET Core, Spring Data JPA, TypeORM/Prisma, Entity Framework Core.
 **
 
 - 🌱 I’m currently learning cloud deployment and scalability, CI/CD pipelines, and distributed systems, while deepening my expertise in Java, Spring Boot, Node.js, NestJS,  C#  and .NET****
