@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asoh Yannick
 
-### Lead Backend Engineer | Building Scalable APIs & Microservices | Java •Spring Boot •Node.js •NestJS •C# •NET •Kafka •RabbitMQ •PostgreSQL •MySQL •MongoDB •Redis •Docker •AWS
+### Lead Backend Developer | Building Scalable APIs & Microservices | Java •Spring Boot •Node.js •NestJS •C# •NET •Kafka •RabbitMQ •PostgreSQL •MySQL •MongoDB •Redis •Docker •AWS
 
 -🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, ASP.NET Core, Spring Data JPA, TypeORM/Prisma, Entity Framework Core.
 **
