@@ -1,21 +1,53 @@
 # Hi 👋, I'm Asoh Yannick
 
-### Lead Backend Developer | Building Scalable APIs & Microservices | Java •Spring Boot •Node.js •NestJS •NET |•C# | •ASP.NET Core •Kafka •RabbitMQ •PostgreSQL •MySQL •MongoDB •Redis •Docker •AWS
+### Lead Backend Engineer · Polyglot across .NET · Java/Spring Boot · Node.js/NestJS
 
--🔭 I’m currently working on microservices-based backend applications, implementing RESTful APIs, secure authentication, and database integrations using Spring Boot, NestJS, ASP.NET Core, Spring Data JPA, TypeORM/Prisma, Entity Framework Core.
-**
+🔭 **Currently Working On**
 
-- 🌱 I’m currently learning cloud deployment and scalability, CI/CD pipelines, and distributed systems, while deepening my expertise in Java, Spring Boot, Node.js, NestJS,  C#  and .NET****
+Architecting and shipping production microservices across three ecosystems:
 
--  ****👯 I’m looking to collaborate on microservices-based applications, RESTful APIs, and event-driven systems using Spring Boot, NestJS, .NET, Docker, PostgreSQL, MySQL, MongoDB and Apache Kafka.****
+- ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security
+- 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, JWT Auth
+- 🟢 **Node.js/NestJS** — Event-driven services, TypeORM/Prisma, Guard-based Auth
 
--  ****🤝 I’m looking for help with backend system design, scalability strategies, and cloud deployment best practices.****
+🌱 **Currently Deepening**
 
--  ****💬 Ask me about backend development, Java & Spring Boot, Node.js & NestJS, C# & .NET and building scalable APIs.****
+- Advanced distributed systems patterns — saga, CQRS, event sourcing
+- Multi-cloud deployment strategies and infrastructure as code (AWS · Terraform)
+- CI/CD pipeline optimization for microservices at scale
+- Performance tuning and observability (tracing, metrics, alerting)
 
-- **📫 How to reach me via email at: **keepcoding200@gmail.com****
+---
 
-- ⚡ Fun fact: Solving backend challenges is my kind of fun 😄**
+👯 **Open to Collaborating On**
+
+- Production-grade microservices and event-driven architectures
+- Open source backend tooling across .NET · Spring Boot · NestJS
+- Developer tools that make backend engineering faster and more reliable
+- Side projects that solve real problems at scale
+
+---
+
+💬 **Ask Me About**
+
+- Choosing between .NET · Java/Spring Boot · Node.js/NestJS for your backend
+- Designing APIs and microservices that actually scale under load
+- Async messaging patterns with Kafka & RabbitMQ
+- ORM tradeoffs — Entity Framework Core vs Spring Data JPA vs Prisma/TypeORM
+
+---
+
+📫 **Reach Me**
+- 📧 keepcoding200@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/asohyannick/)
+
+---
+
+⚡ **Fun Fact**
+
+I've built the same microservice in .NET, Spring Boot and NestJS —
+not because I had to, but because understanding how three ecosystems 
+solve the same problem makes me a significantly better engineer. 🧠
 
 <h3 align="left">Connect with me:</h3>
 
