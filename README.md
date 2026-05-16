@@ -6,7 +6,7 @@
 
 Architecting and shipping production microservices across three ecosystems:
 
-- ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security
+- ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security, Spring AI, Spring Cloud
 - 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, JWT Auth
 - 🟢 **Node.js/NestJS** — Event-driven services, TypeORM/Prisma, Guard-based Auth
 
