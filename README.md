@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asoh Yannick
 
-### Lead Backend Engineer · Polyglot across .NET · Java/Spring Boot · Node.js/NestJS
+### Lead Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot 
 
 🔭 **Currently Working On**
 
@@ -8,7 +8,6 @@ Architecting and shipping production microservices across three ecosystems:
 
 - ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security, Spring AI, Spring Cloud
 - 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, JWT Auth
-- 🟢 **Node.js/NestJS** — Event-driven services, TypeORM/Prisma, Guard-based Auth
 
 🌱 **Currently Deepening**
 
@@ -22,7 +21,7 @@ Architecting and shipping production microservices across three ecosystems:
 👯 **Open to Collaborating On**
 
 - Production-grade microservices and event-driven architectures
-- Open source backend tooling across .NET · Spring Boot · NestJS
+- Open source backend tooling across .NET/C# · Java/Spring Boot
 - Developer tools that make backend engineering faster and more reliable
 - Side projects that solve real problems at scale
 
@@ -30,10 +29,10 @@ Architecting and shipping production microservices across three ecosystems:
 
 💬 **Ask Me About**
 
-- Choosing between .NET · Java/Spring Boot · Node.js/NestJS for your backend
+- Choosing between .NET/C# · Java/Spring Boot for your backend
 - Designing APIs and microservices that actually scale under load
 - Async messaging patterns with Kafka & RabbitMQ
-- ORM tradeoffs — Entity Framework Core vs Spring Data JPA vs Prisma/TypeORM
+- ORM tradeoffs — Entity Framework Core vs Spring Data JPA 
 
 ---
 
@@ -45,8 +44,8 @@ Architecting and shipping production microservices across three ecosystems:
 
 ⚡ **Fun Fact**
 
-I've built the same microservice in .NET, Spring Boot and NestJS —
-not because I had to, but because understanding how three ecosystems 
+I've built the same microservice in .NET/C#, and Spring Boot —
+not because I had to, but because understanding how two ecosystems 
 solve the same problem makes me a significantly better engineer. 🧠
 
 <h3 align="center">Connect with me:</h3>
