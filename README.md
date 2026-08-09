@@ -6,8 +6,8 @@
 
 Architecting and shipping production microservices across three ecosystems:
 
-- ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security, Spring AI, Spring Cloud
-- 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, JWT Auth
+- ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security, Spring AI, Spring Cloud, Git, Docker, APIs Intgeration
+- 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, JWT Auth, Azure, Git, Docker, APIs Intgeration
 
 🌱 **Currently Deepening**
 
