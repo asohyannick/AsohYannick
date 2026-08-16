@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asoh Yannick
 
-### Lead Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot 
+### Senior Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot 
 
 🔭 **Currently Working On**
 
