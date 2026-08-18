@@ -4,10 +4,11 @@
 
 🔭 **Currently Working On**
 
-Architecting and shipping production microservices across two ecosystems:
+Architecting and shipping production microservices across three ecosystems:
 
 - ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security, Spring AI, Spring Cloud, Git, Docker, APIs Intgeration
 - 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, JWT Auth, Azure, Git, Docker, APIs Intgeration
+- 🟢 **Node.js/NestJS** — REST APIs, TypeScript, JWT Auth, PostgreSQL, TypeORM/Prisma, Git, Docker, APIs Integration
 
 🌱 **Currently Deepening**
 
@@ -21,7 +22,7 @@ Architecting and shipping production microservices across two ecosystems:
 👯 **Open to Collaborating On**
 
 - Production-grade microservices and event-driven architectures
-- Open source backend tooling across .NET/C# · Java/Spring Boot
+- Open source backend tooling across .NET/C# · Java/Spring Boot  · Node.js/NestJS
 - Developer tools that make backend engineering faster and more reliable
 - Side projects that solve real problems at scale
 
