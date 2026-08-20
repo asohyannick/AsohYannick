@@ -1,6 +1,7 @@
 # Hi 👋, I'm Asoh Yannick
 ### Senior Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot · Node.js/NestJS
 🔭 **Currently Working On**
+
 Architecting and shipping production microservices across three ecosystems:
 - ⚙️ **Java/Spring Boot** — REST APIs, Spring Data JPA, Spring Security, Spring AI, JWT Auth, Keycloak, Spring Cloud, Git, Docker, API Integrations
 - 🟣 **.NET/C#** — ASP.NET Core APIs, Entity Framework Core, Microsoft Entra ID, MSAL, JWT Auth, Azure, Git, Docker, API Integrations
