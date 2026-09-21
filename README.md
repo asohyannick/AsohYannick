@@ -3,8 +3,8 @@
 🔭 **Currently Working On**
 
 Architecting and shipping production microservices across three ecosystems:
-- ⚙️ **Java** — Spring Boot, REST APIs, Spring Data JPA, Spring Security, Spring AI, JWT Auth, Keycloak, Spring Cloud, Git, Docker, API Integrations
-- 🟣 **.NET** — C#, ASP.NET Core, Web APIs, REST API, Entity Framework Core, Microsoft Entra ID, MSAL, JWT Auth, Azure, Git, Docker, API Integrations
+- ⚙️ **Java** — Spring Boot, REST APIs, Spring Data JPA, PostgreSQL, Spring Security, Spring AI, JWT Auth, Keycloak, Spring Cloud, Git, Docker, API Integrations
+- 🟣 **.NET** — C#, ASP.NET Core, Web APIs, REST API, Entity Framework Core, SQL Server, PostgreSQL, Microsoft Entra ID, MSAL, JWT Auth, Azure, Git, Docker, API Integrations
 - 🟢 **Node.js** — Express.js, Nest.js, REST APIs, TypeScript, JWT Auth, Keycloak, PostgreSQL, TypeORM/Prisma, Git, Docker, API Integrations
 
 🌱 **Currently Deepening**
