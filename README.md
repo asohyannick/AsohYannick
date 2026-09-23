@@ -1,11 +1,10 @@
 # Hi 👋, I'm Asoh Yannick
-### Senior Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot · Node.js/NestJS
+### Senior Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot 
 🔭 **Currently Working On**
 
 Architecting and shipping production microservices across three ecosystems:
 - ⚙️ **Java** — Spring Boot, REST APIs, Spring Data JPA, PostgreSQL, Spring Security, Spring AI, JWT Auth, Keycloak, Spring Cloud, Git, Docker, API Integrations
 - 🟣 **.NET** — C#, ASP.NET Core, Web APIs, REST API, Entity Framework Core, SQL Server, PostgreSQL, Microsoft Entra ID, MSAL, JWT Auth, Azure, Git, Docker, API Integrations
-- 🟢 **Node.js** — Express.js, Nest.js, REST APIs, TypeScript, JWT Auth, Keycloak, PostgreSQL, TypeORM/Prisma, Git, Docker, API Integrations
 
 🌱 **Currently Deepening**
 
@@ -19,7 +18,7 @@ Architecting and shipping production microservices across three ecosystems:
 👯 **Open to Collaborating On**
 
 - Production-grade microservices and event-driven architectures
-- Open source backend tooling across .NET/C# · Java/Spring Boot  · Node.js/NestJS
+- Open source backend tooling across .NET/C# · Java/Spring Boot  
 - Developer tools that make backend engineering faster and more reliable
 - Side projects that solve real problems at scale
 
@@ -27,7 +26,7 @@ Architecting and shipping production microservices across three ecosystems:
 
 💬 **Ask Me About**
 
-- Choosing between .NET/C# · Java/Spring Boot · Node.js/NestJS for your backend
+- Choosing between .NET/C# · Java/Spring Boot for your backend
 - Designing APIs and microservices that actually scale under load
 - Async messaging patterns with Kafka & RabbitMQ
 - ORM tradeoffs — Entity Framework Core vs Spring Data JPA 
