@@ -1,5 +1,5 @@
 # Hi 👋, I'm Asoh Yannick
-### Senior Backend Engineer · Polyglot across .NET/C# · Java/Spring Boot 
+### Senior Backend Developer · Polyglot across .NET/C# · Java/Spring Boot 
 🔭 **Currently Working On**
 
 Architecting and shipping production microservices across three ecosystems:
