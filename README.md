@@ -1,49 +1,65 @@
-# Hi 👋, I'm Asoh Yannick
-### Senior Backend Developer · Polyglot across .NET/C# · Java/Spring Boot 
-🔭 **Currently Working On**
+# Hi 👋, I’m Asoh Yannick
 
-Architecting and shipping production microservices across three ecosystems:
-- ⚙️ **Java** — Spring Boot, REST APIs, Spring Data JPA, PostgreSQL, Spring Security, Spring AI, JWT Auth, Keycloak, Spring Cloud, Git, Docker, API Integrations
-- 🟣 **.NET** — C#, ASP.NET Core, Web APIs, REST API, Entity Framework Core, SQL Server, PostgreSQL, Microsoft Entra ID, MSAL, JWT Auth, Azure, Git, Docker, API Integrations
+### Senior Backend Developer · Java & Spring Boot
 
-🌱 **Currently Deepening**
+I design and build reliable, scalable backend systems and production-grade microservices. My work focuses on clean architecture, distributed systems, API design, cloud infrastructure, and performance.
 
-- Advanced distributed systems patterns — saga, CQRS, event sourcing
-- Multi-cloud deployment strategies and infrastructure as code (AWS · Terraform)
-- CI/CD pipeline optimization for microservices at scale
-- Performance tuning and observability (tracing, metrics, alerting)
+## 🔭 Currently Working On
 
----
+Architecting and delivering production microservices with:
 
-👯 **Open to Collaborating On**
+- **Java & Spring Boot**
+- RESTful API design and development
+- Spring Data JPA and PostgreSQL
+- Spring Security, JWT, and Keycloak
+- Spring Cloud and distributed systems
+- Spring AI integrations
+- Kafka and RabbitMQ
+- Docker and Git
+- Third-party API integrations
 
-- Production-grade microservices and event-driven architectures
-- Open source backend tooling across .NET/C# · Java/Spring Boot  
-- Developer tools that make backend engineering faster and more reliable
-- Side projects that solve real problems at scale
+## 🌱 Currently Deepening My Expertise In
 
----
+- Advanced distributed systems patterns:
+  - Saga
+  - CQRS
+  - Event sourcing
+- Multi-cloud deployment strategies with **AWS**
+- Infrastructure as code using **Terraform**
+- CI/CD optimization for microservices at scale
+- Performance engineering and application tuning
+- Observability with metrics, logs, tracing, and alerting
+- Resilient and fault-tolerant system design
 
-💬 **Ask Me About**
+## 👯 Open to Collaborating On
 
-- Choosing between .NET/C# · Java/Spring Boot for your backend
-- Designing APIs and microservices that actually scale under load
-- Async messaging patterns with Kafka & RabbitMQ
-- ORM tradeoffs — Entity Framework Core vs Spring Data JPA 
+- Production-grade microservices
+- Event-driven and distributed architectures
+- Open-source Java and Spring Boot tooling
+- Developer tools that improve backend productivity and reliability
+- Scalable side projects that solve meaningful real-world problems
 
----
+## 💬 Ask Me About
 
-📫 **Reach Me**
-- 📧 keepcoding200@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/asohyannick/)
+- Designing APIs and microservices that scale under load
+- Kafka and RabbitMQ messaging patterns
+- Synchronous versus asynchronous communication
+- Spring Security, JWT authentication, and Keycloak
+- Spring Data JPA and database design
+- Building maintainable, observable, and resilient backend systems
 
----
+## 🛠️ Core Technologies
 
-⚡ **Fun Fact**
+`Java` · `Spring Boot` · `Spring Cloud` · `Spring Security` · `Spring Data JPA` · `PostgreSQL` · `Kafka` · `RabbitMQ` · `Docker` · `AWS` · `Terraform` · `Git` · `REST APIs` · `JWT` · `Keycloak` · `CI/CD`
 
-I've built the same microservice in .NET/C#, and Spring Boot —
-not because I had to, but because understanding how two ecosystems 
-solve the same problem makes me a significantly better engineer. 🧠
+## 📫 Let’s Connect
+
+- 📧 **Email:** [keepcoding200@gmail.com](mailto:keepcoding200@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/asohyannick](https://www.linkedin.com/in/asohyannick/)
+
+## ⚡ Fun Fact
+
+I enjoy exploring how Java and Spring Boot can be used to design clean, resilient, and scalable backend systems that solve real-world problems. 🧠
 
 <h3 align="center">Connect with me:</h3>
 
