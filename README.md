@@ -87,66 +87,81 @@ I enjoy exploring how Java and Spring Boot can be used to design clean, resilien
 
 <p align="center">
 
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  </a>
-
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" height="40" />
-  </a>
-
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" height="40" />
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" height="40" />
-  </a>
-
+  <!-- ===== JVM Languages ===== -->
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" height="40" />
-  </a>
-
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" height="40" />
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" height="40" />
-  </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  </a>
-
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
-  </a>
-
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" height="40" />
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="40" />
-  </a>
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="40" />
   </a>
 
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
   </a>
 
+  <a href="https://groovy-lang.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" height="40" />
+  </a>
+
+  <!-- ===== Java Frameworks ===== -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  </a>
+
+  <a href="https://quarkus.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/quarkus/4695EB" height="40" />
+  </a>
+
+  <a href="https://micronaut.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/micronaut/white" height="40" />
+  </a>
+
+  <a href="https://www.playframework.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/playframework/92D13D" height="40" />
+  </a>
+
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hibernate" height="40" />
+  </a>
+
+  <!-- ===== Build Tools ===== -->
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=maven" height="40" />
+  </a>
+
+  <a href="https://gradle.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gradle" height="40" />
+  </a>
+
+  <!-- ===== Security ===== -->
+  <a href="https://www.keycloak.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/keycloak/4D9FE6" height="40" />
+  </a>
+
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/jsonwebtokens/white" height="40" />
+  </a>
+
+  <!-- ===== Testing ===== -->
+  <a href="https://junit.org/junit5/" target="_blank">
+    <img src="https://cdn.simpleicons.org/junit5/25A162" height="40" />
+  </a>
+
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=selenium" height="40" />
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  </a>
+
+  <!-- ===== Servers & IDE ===== -->
+  <a href="https://tomcat.apache.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" />
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=idea" height="40" />
+  </a>
+
+  <!-- ===== Messaging ===== -->
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kafka" height="40" />
   </a>
@@ -155,18 +170,7 @@ I enjoy exploring how Java and Spring Boot can be used to design clean, resilien
     <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" />
   </a>
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  </a>
-
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
-  </a>
-
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
-  </a>
-
+  <!-- ===== Databases & Migrations ===== -->
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" height="40" />
   </a>
@@ -191,72 +195,63 @@ I enjoy exploring how Java and Spring Boot can be used to design clean, resilien
     <img src="https://skillicons.dev/icons?i=cassandra" height="40" />
   </a>
 
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+  <a href="https://www.liquibase.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/liquibase/2962FF" height="40" />
   </a>
 
-  <a href="https://www.cockroachlabs.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cockroachlabs" height="40" />
+  <a href="https://flywaydb.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/flyway/CC0200" height="40" />
   </a>
 
-  <a href="https://couchdb.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" />
-  </a>
-
-  <a href="https://appwrite.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=appwrite" height="40" />
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-  </a>
-
-  <a href="https://graphql.org/" target="_blank">
+  <a href="https://spring.io/projects/spring-graphql" target="_blank">
     <img src="https://skillicons.dev/icons?i=graphql" height="40" />
+  </a>
+
+  <!-- ===== DevOps & Cloud ===== -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  </a>
+
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  </a>
+
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+  </a>
+
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" height="40" />
+  </a>
+
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" />
+  </a>
+
+  <!-- ===== Monitoring ===== -->
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prometheus" height="40" />
   </a>
 
   <a href="https://grafana.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=grafana" height="40" />
   </a>
 
+  <!-- ===== General Tools ===== -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" height="40" />
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  </a>
-
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jest" height="40" />
-  </a>
-
-  <a href="https://www.cypress.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cypress" height="40" />
-  </a>
-
-  <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=heroku" height="40" />
   </a>
 
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" height="40" />
   </a>
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" height="40" />
-  </a>
-
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=d3" height="40" />
-  </a>
-
-  <a href="https://www.chartjs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="40" />
-  </a>
-
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" height="40" />
   </a>
 
 </p>
