@@ -1,6 +1,6 @@
 # Hi 👋, I’m Asoh Yannick
 
-### Senior Backend Developer · Java & Spring Boot
+### Full Stack Java Developer · Java, Spring Boot & Angular
 
 I design and build reliable, scalable backend systems and production-grade microservices. My work focuses on clean architecture, distributed systems, API design, cloud infrastructure, and performance.
 
